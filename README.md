@@ -44,7 +44,7 @@ export default {
 			console.log('Login hook');
 
 			// Remove listener
-			logout.reject();
+			logout.destroy();
 		});
 
 		onLogin(() => {

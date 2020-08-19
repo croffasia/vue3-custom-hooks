@@ -1,7 +1,7 @@
 {
 	"name": "@croffasia/vue3-custom-hooks",
-	"version": "0.1.0",
-	"description": "Build custom hooks for Vue3 (composition api)",
+	"version": "0.1.1",
+	"description": "Build custom hooks for Vue3 Composition API",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
