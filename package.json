@@ -1,6 +1,6 @@
 {
 	"name": "@croffasia/vue3-custom-hooks",
-	"version": "0.1",
+	"version": "0.1.0",
 	"description": "Build custom hooks for Vue3 (composition api)",
 	"main": "index.js",
 	"scripts": {
