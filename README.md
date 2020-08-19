@@ -4,13 +4,13 @@ Build custom hooks for Vue3 Composition API
 
 ## Buy me a burger 🍔
 ```
-BTC: 3FXjMVgNQUDQ6dLpgTGKKhfRPb4ysEtJeD
+BTC: 3QRaAVBCmySMSRDRnbH86sFVLNDWtiCHFf
 ```
 ```
-ETH: 0xc819FD26DA87a0C53150B00EFf148092E1a923aD
+ETH, TUSD, USDC: 0xA0b1ceCB9e785d920D7B0d4847F34551Ab38496B
 ```
 ```
-Tether USDT: 0x32Ae378B7b77146aB7A4edEe9d9d592799b3C675
+Binance Coin BNB: bnb1lrst8vak0vtj3synzn9dkuphund8mt0es5xyxc
 ```
 ***Apple Pay or Google Pay - Scan to pay***
 
