@@ -1,4 +1,4 @@
-# vue3-custom-hooks
+# 💪Vue3 Custom Hooks
 
 Build custom hooks for Vue3 Composition API
 
