@@ -1,0 +1,31 @@
+{
+	"name": "@croffasia/vue3-custom-hooks",
+	"version": "0.1",
+	"description": "Build custom hooks for Vue3 (composition api)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PoluosmakAndrew/vue3-custom-hooks.git"
+	},
+	"keywords": [
+		"vue3",
+		"composition-api",
+		"hooks",
+		"custom-hooks",
+		"vue-hooks",
+		"vue-function-api",
+		"events",
+		"vue-use",
+		"vue-composition-api"
+	],
+	"author": "CroffAsia",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/PoluosmakAndrew/vue3-custom-hooks/issues"
+	},
+	"homepage": "https://github.com/PoluosmakAndrew/vue3-custom-hooks#readme",
+	"dependencies": {}
+}
