@@ -8,6 +8,10 @@ Build custom hooks for Vue3 Composition API
 yarn add @croffasia/vue3-custom-hooks
 ```
 
+```sh
+npm install @croffasia/vue3-custom-hooks --save
+```
+
 ## Usage
 
 After installing Vue3 Custom Hooks, let's create some hooks.
