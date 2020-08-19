@@ -47,8 +47,8 @@ export default {
 			logout.destroy();
 		});
 
-		onLogin(() => {
-			console.log('Login hook');
+		onLogin(({user}) => {
+			console.log(`Hello ${user}`);
 
 			// Dispatch logout
 			logout.dispatch();
@@ -66,12 +66,12 @@ import { onLogin, onLogout } from '@/hooks/login'
 export default () => {
 
     const Login () => {
-        // Dispatch login hook
-        onLogin();
+        // Dispatch login hook with payload
+        onLogin({ user: "UserName" });
     }
 
     const Logout () => {
-        // Dispatch logout hook
+        // Dispatch logout hook without payload
         onLogout();
     }
 
