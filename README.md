@@ -3,20 +3,22 @@
 Build custom hooks for Vue3 Composition API
 
 ## Buy me a burger 🍔
+
 ```
 BTC: 3QRaAVBCmySMSRDRnbH86sFVLNDWtiCHFf
 ```
+
 ```
 ETH, TUSD, USDC: 0xA0b1ceCB9e785d920D7B0d4847F34551Ab38496B
 ```
+
 ```
 Binance Coin BNB: bnb1lrst8vak0vtj3synzn9dkuphund8mt0es5xyxc
 ```
-***Apple Pay or Google Pay - Scan to pay***
 
+**_Apple Pay or Google Pay - Scan to pay_**
 
-![alt text](https://wayforpay.com/qr/img?token=qe178b52fd447&size=100 "QR")
-
+![alt text](https://wayforpay.com/qr/img?token=qe178b52fd447&size=100 'QR')
 
 ## Install
 
@@ -43,6 +45,11 @@ const hooks = useHooks(LOGIN, LOGOUT);
 
 export const onLogin = hooks.makeHook(LOGIN);
 export const onLogout = hooks.makeHook(LOGOUT);
+
+// hooks.available() - returned all about available hooks.
+// hooks.available("login") - returned info about hook test
+// hooks.clear() - clear all callbacks
+// hooks.clear("login") - clear all callbacks from hook login
 
 export default hooks;
 ```
