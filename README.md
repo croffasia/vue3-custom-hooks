@@ -1,4 +1,4 @@
-# 💪 Vue3 Custom Hooks [![Build Status](https://travis-ci.org/PoluosmakAndrew/vue3-custom-hooks.svg?branch=master)](https://travis-ci.org/PoluosmakAndrew/vue3-custom-hooks)
+# 💪 Vue3 Custom Hooks [![npm](https://img.shields.io/npm/v/@croffasia/vue3-custom-hooks)](https://www.npmjs.com/package/@croffasia/vue3-custom-hooks) [![npm](https://img.shields.io/npm/l/@croffasia/vue3-custom-hooks)](https://www.npmjs.com/package/@croffasia/vue3-custom-hooks) [![npm](https://img.shields.io/npm/dt/@croffasia/vue3-custom-hooks)](https://www.npmjs.com/package/@croffasia/vue3-custom-hooks)
 
 Build custom hooks for Vue3 Composition API
 
