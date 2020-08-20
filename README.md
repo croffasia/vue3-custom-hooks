@@ -1,4 +1,4 @@
-# 💪Vue3 Custom Hooks
+# 💪 Vue3 Custom Hooks [![Build Status](https://travis-ci.org/PoluosmakAndrew/vue3-custom-hooks.svg?branch=master)](https://travis-ci.org/PoluosmakAndrew/vue3-custom-hooks)
 
 Build custom hooks for Vue3 Composition API
 
