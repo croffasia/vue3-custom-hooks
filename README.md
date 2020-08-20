@@ -2,6 +2,16 @@
 
 Build custom hooks for Vue3 Composition API
 
+## Install
+
+```sh
+yarn add @croffasia/vue3-custom-hooks
+```
+
+```sh
+npm install @croffasia/vue3-custom-hooks --save
+```
+
 ## Buy me a burger 🍔
 
 ```
@@ -19,16 +29,6 @@ Binance Coin BNB: bnb1lrst8vak0vtj3synzn9dkuphund8mt0es5xyxc
 **_Apple Pay or Google Pay - Scan to pay_**
 
 ![alt text](https://wayforpay.com/qr/img?token=qe178b52fd447&size=100 'QR')
-
-## Install
-
-```sh
-yarn add @croffasia/vue3-custom-hooks
-```
-
-```sh
-npm install @croffasia/vue3-custom-hooks --save
-```
 
 ## Usage
 
