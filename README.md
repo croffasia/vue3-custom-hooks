@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/l/@croffasia/vue3-custom-hooks)](https://www.npmjs.com/package/@croffasia/vue3-custom-hooks) [![npm](https://img.shields.io/npm/dt/@croffasia/vue3-custom-hooks)](https://www.npmjs.com/package/@croffasia/vue3-custom-hooks) [![npm](https://img.shields.io/npm/v/@croffasia/vue3-custom-hooks)](https://www.npmjs.com/package/@croffasia/vue3-custom-hooks)
 [![Coverage Status](https://coveralls.io/repos/github/PoluosmakAndrew/vue3-custom-hooks/badge.svg?branch=master)](https://coveralls.io/github/PoluosmakAndrew/vue3-custom-hooks?branch=master)
-[![npm](https://img.shields.io/travis/PoluosmakAndrew/vue3-custom-hooks)](https://www.npmjs.com/package/@croffasia/vue3-custom-hooks)
+[![npm](https://img.shields.io/travis/PoluosmakAndrew/vue3-custom-hooks)](https://travis-ci.com/github/PoluosmakAndrew/vue3-custom-hooks)
 
 Build custom hooks for Vue3 Composition API
 
